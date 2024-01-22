@@ -13,4 +13,4 @@
 <h5>getAllJournalEntriesOfUser  ---> GET--->(/{userName})</h5>
 <h5>createEntry  ---> POST--->(/{userName})</h5>
 <h5>deleteEntryById  ---> DELETE--->(/id/{userName}/{id})</h5>
-<h5>changeEntryById  ---> PUT>(/id/{userName}/{id})</h5>
+<h5>changeEntryById  ---> PUT--->(/id/{userName}/{id})</h5>
